@@ -1,0 +1,6 @@
+# vscode files
+.vscode/
+debug
+
+# build
+loopover.exe
